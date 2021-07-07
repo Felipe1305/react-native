@@ -51,7 +51,6 @@ const styles = StyleSheet.create({
     },containerExterno: {
         flex: 1
         }, 
-        
         barraRetangulos: {
             flexDirection: "row",
         },
@@ -84,12 +83,12 @@ const styles = StyleSheet.create({
   box2: {
     width: 100,
     height: 100,
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#F5A623',
   },
   box3: {
     width: 160,
     height: 30,
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#F5A623',
   },
   box4: {
     width: 100,
