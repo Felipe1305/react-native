@@ -25,7 +25,7 @@ const Desafio = () => {
         <View style={styles.container}>
 
         <View style={styles.container2}>
-        <View style={styles.box4}></View>
+        <View style={styles.box4}><Text>1</Text></View>
         <View style={styles.box4}></View>
         <View style={styles.box4}></View>
         </View>
